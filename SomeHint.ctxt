@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SomeHint
+comment0.text=\ This\ class\ is\ for\ guiding\ \ a\ row\ or\ column\ of\ a\ cell\r\n\ Contains\ an\ array\ of\ HintCells\ with\ \ maximum\ length\r\n\r\n\r\n
+comment1.params=length
+comment1.target=SomeHint(int)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=length
+comment3.target=void\ setLength(int)
+comment4.params=hintCell
+comment4.target=void\ addHintCell(HintCell)
+comment5.params=
+comment5.target=HintCell[]\ getHintCells()
+comment6.params=hintCells
+comment6.target=void\ setHintCells(HintCell[])
+comment7.params=index
+comment7.target=HintCell\ getHintCell(int)
+comment8.params=array
+comment8.target=void\ check(int[])
+comment8.text=\r\n\ This\ method\ checks\ if\ the\ cells\ are\ correct\ or\ not\r\n\ @param\ array\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\ntoString\ method\ to\ print\ the\ help\ fields\r\n\ @return\ toString\ of\ someHint\r\n
+numComments=10
